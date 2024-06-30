@@ -10,8 +10,8 @@
 * [Meetup](#)
 
 ### Code Repository
-* [repo](#)
+* [repo](https://github.com/OWASP/www-project-secure-pipeline-verification-standard--spvs-)
 
 ### Change Log
-* [changes](#)
+* [0.0.1](https://github.com/OWASP/www-project-secure-pipeline-verification-standard--spvs-)
 

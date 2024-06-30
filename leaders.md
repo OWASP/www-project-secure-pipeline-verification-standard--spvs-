@@ -1,2 +1,3 @@
 ### Leaders
-* [Starr Brown](mailto:Starr.Brown63@owasp.org)
+* [Farshad Abasi](mailto:farshad.abasi@Owasp.com)
+* [Cameron W](cameronww7@gmail.com)

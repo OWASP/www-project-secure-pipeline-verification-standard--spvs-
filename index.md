@@ -1,13 +1,15 @@
 ---
 
 layout: col-sidebar
-title: OWASP Top 10 in XR
+title: SPVS
 tags: example-tag
 level: 2
 type: documentation
-pitch: A very brief, one-line description of your project
+pitch: The SPVS guide offers robust controls for companies to secure their software development pipelines, enhancing security maturity and managing risks from inception to delivery.
 
 ---
+
+The SPVS is a detailed guide containing a robust set of controls designed for software engineers, DevOps/DevSecOps engineers and security teams. It aims to assess and enhance the security maturity of software development pipelines, with a focus on managing the risks associated with code and artifact handling throughout the entire pipeline lifecycle, from inception to delivery.
 
 This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
 
